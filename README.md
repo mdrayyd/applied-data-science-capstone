@@ -1,1 +1,1 @@
-# coursera-capstone-project
+# applied-data-science-capstone
